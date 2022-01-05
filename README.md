@@ -16,7 +16,7 @@ This is a very good book. I was thrilled to read this book but unfortunatly I co
 | Chapter 8      | Done   |
 | Chapter 9      | Done (Except Regex Search) |
 | Chapter 10     | Done   |
-| Chapter 11     | Read |
+| Chapter 11     | Done |
 | Chapter 12     | Read |
 | Chapter 13    |  Done |
 
