@@ -20,4 +20,4 @@ This is a very good book. I was thrilled to read this book but unfortunatly I co
 | Chapter 12     | Read |
 | Chapter 13    |  Done |
 
-I read chapter 12 but currently I am using Mac so fire fix is not working in it properly and giving some error. So I left that chapter
+I read chapter 12 but currently I am using Mac so fire fox is not working in it properly and giving some error. So I left that chapter
