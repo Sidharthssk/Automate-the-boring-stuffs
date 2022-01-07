@@ -1,7 +1,7 @@
 import os,sys,PyPDF2
 
 
-os.chdir('/Users/sidharth/Desktop/pdf Folders')
+
 file_list = []
 encrypted_files = []
 
