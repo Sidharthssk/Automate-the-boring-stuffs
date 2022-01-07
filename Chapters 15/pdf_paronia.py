@@ -1,7 +1,7 @@
 import os,sys,PyPDF2
 
 
-os.chdir('/Users/sidharth/Desktop/pdf Folders')
+
 file_list = []
 
 for foldername, filename, subfolder in os.walk('.'):
